@@ -1,4 +1,5 @@
 * 00-greetFriend
+  - <img width="567" alt="Screenshot 2023-05-26 at 6 50 22 PM" src="https://github.com/ErlisI/Summer-2023-Assignment-0/assets/63165733/c11772e1-7830-4a20-9e5f-035f1561f81f">
 * 01-titleCaseEdit
 * 02-subtractFive
 * 03-cutInHalfAndFloor
