@@ -50,5 +50,7 @@
   - <img width="722" alt="16" src="https://github.com/ErlisI/Summer-2023-Assignment-0/assets/63165733/cf98fc1a-eb8f-49f9-ae40-7975a8c14b2b">
 
 * 17-setUnionOfAnyAmountOfSets
+  - <img width="619" alt="Screenshot 2023-05-28 at 7 36 37 PM" src="https://github.com/ErlisI/Summer-2023-Assignment-0/assets/63165733/cb7beff6-b5c9-4261-a10b-d6e7a40fc68e">
+
 * 18-pairSum
 * 19-binarySearch
