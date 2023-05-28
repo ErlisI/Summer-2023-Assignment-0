@@ -29,14 +29,26 @@
   - <img width="737" alt="9" src="https://github.com/ErlisI/Summer-2023-Assignment-0/assets/63165733/39aac8f8-648a-4dcc-8f17-945721ceb132">
 
 * 10-sumOfNumsWithinARange
+  - <img width="568" alt="10" src="https://github.com/ErlisI/Summer-2023-Assignment-0/assets/63165733/92d3eb21-ab2c-473e-8496-819e5e5ffa7e">
+
 * 11-sumOfMinimumAndMaximum
+  - <img width="563" alt="11" src="https://github.com/ErlisI/Summer-2023-Assignment-0/assets/63165733/38b241e2-598f-4872-b3fc-dc6b1fe45c88">
 
 * 12-fizzBuzz
+  - <img width="723" alt="12" src="https://github.com/ErlisI/Summer-2023-Assignment-0/assets/63165733/13ea33db-60de-4591-a32b-927620a58066">
+
 * 13-isPalindrome
+  - <img width="567" alt="13" src="https://github.com/ErlisI/Summer-2023-Assignment-0/assets/63165733/55eded06-77d8-431b-ae5f-b1000c70503a">
+
 * 14-frequencyCounter
+  - <img width="721" alt="14" src="https://github.com/ErlisI/Summer-2023-Assignment-0/assets/63165733/83ba8417-072b-44cb-9784-37110bca5feb">
+
 * 15-countDownSum
+  - <img width="719" alt="15" src="https://github.com/ErlisI/Summer-2023-Assignment-0/assets/63165733/2dc6c2c3-3c20-47e1-85bf-c8b09db40cb5">
 
 * 16-productOfAnyAmountOfNumbers
+  - <img width="722" alt="16" src="https://github.com/ErlisI/Summer-2023-Assignment-0/assets/63165733/cf98fc1a-eb8f-49f9-ae40-7975a8c14b2b">
+
 * 17-setUnionOfAnyAmountOfSets
 * 18-pairSum
 * 19-binarySearch
