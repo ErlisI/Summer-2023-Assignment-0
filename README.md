@@ -53,4 +53,7 @@
   - <img width="619" alt="Screenshot 2023-05-28 at 7 36 37 PM" src="https://github.com/ErlisI/Summer-2023-Assignment-0/assets/63165733/cb7beff6-b5c9-4261-a10b-d6e7a40fc68e">
 
 * 18-pairSum
+  - <img width="721" alt="18" src="https://github.com/ErlisI/Summer-2023-Assignment-0/assets/63165733/35311b56-1913-4401-ae51-2d066cc96987">
+
 * 19-binarySearch
+  - <img width="722" alt="19" src="https://github.com/ErlisI/Summer-2023-Assignment-0/assets/63165733/a600ae78-7df9-45d5-82cb-8e7d82605f52">
